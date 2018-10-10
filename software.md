@@ -4,6 +4,8 @@
     github desktop
     charles
     sublime
+    item2
+    vscode
 
 ### 命令行工具
 
